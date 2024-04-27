@@ -1,5 +1,7 @@
 # To Do List - React
 
+Link de acesso: https://react-todolist-orcin-ten.vercel.app/
+
 ## Visualização
 
 ![image](https://github.com/beatrizac03/react-todolist/assets/134962161/791ff255-1bda-4d8e-aee2-f3d5312a5c89)
